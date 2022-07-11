@@ -8,7 +8,7 @@ I've always been interested in solving problems and coding appealed to me. I was
 
 * 🌍  I'm based in London, UK
 * ✉️  You can contact me at [tekraj84@hotmail.com](mailto:tekraj84@hotmail.com)
-* 🧠  I'm learning React, Redux, Express, MongoDB
+* 🧠  Proficient in React, Redux, Express, MongoDB
 * ⚡  I love badminton and listening to music.
 
 ### Skills
