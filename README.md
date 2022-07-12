@@ -5,6 +5,8 @@ Full Stack Developer
 --------------------
 
 I've always been interested in solving problems and coding appealed to me. I was learning it by myself in my own time. After a while, I decided to do a structured bootcamp to learn the industry standards. I just finished Codeworks Bootcamp in July 2022. I am very excited to contribute in my next job.
+
+
 <img align="right" alt="web developer pic" src="./assets/full-stack-developer.svg" width="500" height="340" />
 * 🌍  I'm based in London, UK
 * ✉️  You can contact me at [tekraj84@hotmail.com](mailto:tekraj84@hotmail.com)
