@@ -8,6 +8,8 @@ I've always been interested in solving problems and coding appealed to me. I was
 
 
 <img align="right" alt="web developer pic" src="./assets/full-stack-developer.svg" width="500" height="340" />
+
+
 * 🌍  I'm based in London, UK
 * ✉️  You can contact me at [tekraj84@hotmail.com](mailto:tekraj84@hotmail.com)
 * 🧠  Proficient in React, Redux, Express, MongoDB
